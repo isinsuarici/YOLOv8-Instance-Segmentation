@@ -7,7 +7,7 @@ This project utilizes YOLOv8 for the instance segmentation of fire. <br>
 
 ## Dataset
 Only one class named ```fire``` was used. A total of 250 images were used, consisting of 200 for training and 50 for validation. 
-You can access the labeled data from ```[here]```(https://universe.roboflow.com/dlproject-2mzlq/yolo7_fire_3/browse?queryText=split%3Atrain&pageSize=50&startingIndex=0&browseQuery=true).
+You can access the labeled data from [here](https://universe.roboflow.com/dlproject-2mzlq/yolo7_fire_3/browse?queryText=split%3Atrain&pageSize=50&startingIndex=0&browseQuery=true).
 
 ## Requirements
 ```
@@ -26,4 +26,5 @@ Run the following command:
 ```
 
 Here is the final outcome: <br>
+
 ![y](https://user-images.githubusercontent.com/44557162/226201018-6062ee72-c42e-4622-8292-72334cf5c046.gif)
